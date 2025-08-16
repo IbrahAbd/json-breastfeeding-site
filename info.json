@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "main_title": "Online Breastfeeding Education",
+    "subtitle": "For all health professionals working with mothers and infants",
+    "cpd_text": "32 CPDs (including 3 ethics points)",
+    "duration_text": "10 sessions × 3 hours",
+    "format_text": "LIVE interactive sessions"
+  },
+  "overview": {
+    "title": "Course Overview",
+    "description": "This interactive program aims to equip healthcare professionals with the knowledge and skills necessary to deliver evidence-based care for breastfeeding mothers and their infants.",
+    "card1_title": "Evidence-Based Learning",
+    "card1_content": "Updated perspectives challenging outdated beliefs, aligned with global guidelines such as the Mother Baby-Friendly Initiative (MBFI).",
+    "card2_title": "Interactive Sessions",
+    "card2_content": "Live, interactive program with verbal, visual, chat, and task-based learning. Active participation with camera on required.",
+    "card3_title": "Professional Development",
+    "card3_content": "32 hours of CPD (including 3 ethics points) accredited lactation education providing a valuable foundation for healthcare professionals."
+  },
+  "how_it_works": {
+    "title": "How Our Course Works",
+    "description": "Watch this brief overview to understand our interactive learning approach and what to expect from your breastfeeding education journey."
+  },
+  "course_details": {
+    "title": "Course Details",
+    "start_date": "22 July 2025",
+    "session_times": "8:00 AM - 10:45/11:00 AM",
+    "login_time": "Please log in by 7:45 AM for setup",
+    "duration": "27-30 hours online + 5-10 hours pre-reading",
+    "price": "R2740"
+  },
+  "learning_objectives": {
+    "title": "Learning Objectives",
+    "intro": "Upon completion, participants will be able to:",
+    "objectives": [
+      "Describe clinical care consistent with initiation and maintenance of lactation",
+      "Identify key principles for effective breastfeeding",
+      "Assess comfort and efficacy of breastfeeding",
+      "Summarise normal growth parameters of breastfed infants",
+      "Discuss ways to instil confidence and empower new mothers",
+      "Describe the anatomy and physiology of the breast",
+      "Summarise the immunobiology of human milk",
+      "Support policies that promote and protect breastfeeding",
+      "Describe the principles of the Mother baby-friendly Initiative",
+      "Outline the principles of the Code of Marketing of Breastmilk Substitutes",
+      "Collaborate with and provide appropriate referral to other professionals",
+      "Identify resources available for health professionals"
+    ]
+  },
+  "topics": {
+    "title": "Topics Covered",
+    "description": "Comprehensive curriculum covering essential breastfeeding knowledge supported by case studies",
+    "topics": [
+      "Anatomy of Breastfeeding",
+      "Assessment and documentation",
+      "Breast and nipple anomalies",
+      "Breast and nipple pain",
+      "Complementary Foods and Weaning",
+      "Communicating with empathy and compassion",
+      "Consequences related to poor latch",
+      "Early term and Late Preterm and Small for Gestational Age babies",
+      "Establishing & maintaining milk production",
+      "Evidence-based practice",
+      "Expressing and pumping",
+      "Fathers",
+      "Growth and growth charts",
+      "HIV",
+      "How breastfeeding protects babies",
+      "Hypoglycaemia",
+      "Jaundice",
+      "Maternal Diet",
+      "Medications and breastfeeding",
+      "Mother-Baby-Friendly Hospital Initiative",
+      "The newborn's adaptations, physiological needs, expectations",
+      "Pacifiers, bottles, nipple shields",
+      "Physiology of breastfeeding",
+      "Positioning and latch",
+      "Premature infants",
+      "Relactation and Induced lactation",
+      "Reflux",
+      "Returning to work",
+      "Routines and schedules",
+      "Sleep and sleep training",
+      "The World Health Organisation Code of Marketing of Commercial Milk Formulas"
+    ]
+  },
+  "presenters": {
+    "title": "Meet Your Experienced Presenters",
+    "rahmat": {
+      "name": "Dr. Rahmat Bagus",
+      "credentials": "MBChB IBCLC",
+      "bio": "I am a mother to 4 children (ages 9, 13, 17, 21). I am a medical doctor with an interest in paediatric primary care and lactation. I run a private practice in Parow, Cape Town. I am also an International Board Certified Lactation Consultant and I volunteer my time with La Leche League South Africa. In that capacity I run free breastfeeding support meetings and whats app groups for mothers. I also serve as the Professional Liaison Leader for LLLSA and am part of a group on the Medical Advisory team for LLL International. As a doctor I was dismayed to find out how little I knew about breastfeeding until I joined LLLSA. It's sadly a neglected area of medical training."
+    },
+    "dilshaad": {
+      "name": "Dilshaad Sungay",
+      "credentials": "B.Com LLLL (retired)",
+      "bio": "I am mother of 5 children (ages 31 to 17 years) and has 1 grandbaby who is 3 years old. I have a degree in B.Comm, but found my passion after having my first baby. I desperately wanted to learn the 'truth' about breastfeeding. I did a Peer Counselling course and went on to become a La Leche League Leader in 1998, offering breastfeeding help and support. I coordinated a Breastfeeding Peer Counselor project for 16 years, and currently continue to support mothers."
+    },
+    "jean": {
+      "name": "Jean Ridler",
+      "credentials": "RN RM IBCLC",
+      "bio": "I am the mother of 2 children, grandmother of 4. I have been an International Board Certified Lactation Consultant for over 30 years. I am also a WHO/UNICEF Trainer of Trainers and BFHI Assessor, although I have not worked in this area for a while. I have worked in the private, public and volunteer sectors and learned so much from my colleagues, both locally and globally, but especially from the amazing mothers I have been privileged to work with."
+    }
+  },
+  "reviews": {
+    "title": "What Our Students Say",
+    "subtitle": "Real feedback from healthcare professionals who have completed our course"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "cta": {
+    "title": "Ready to Transform Your Practice?",
+    "subtitle": "Join healthcare professionals committed to evidence-based breastfeeding support",
+    "inquiry_text": "For inquiries, email:",
+    "email": "dilshaadsungay@gmail.com"
+  },
+  "footer": {
+    "text": "© 2025 Breastfeeding Education Course. Empowering healthcare professionals with evidence-based knowledge."
+  }
+}
